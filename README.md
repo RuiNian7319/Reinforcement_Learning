@@ -1,2 +1,2 @@
-# Reinforcement_Learning
+# Reinforcement Learning
 UCB reinforcement learning and advantage learning codes
