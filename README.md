@@ -1,4 +1,4 @@
-# Upper Confidence Bound Reinforcement Learning Codes
+# Upper Confidence Bound (UCB) Reinforcement Learning Codes
 
 - RL_Module: Original code with UCB & Advantage learning
 - RL_Module_Position: Position reinforcement learning module. Takes absolute states and actions.
